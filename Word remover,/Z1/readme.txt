@@ -1,0 +1,1 @@
+removes 1st word from sentence string

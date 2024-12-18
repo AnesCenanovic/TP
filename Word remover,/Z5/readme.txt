@@ -1,0 +1,1 @@
+trapezno pravilo

@@ -1,0 +1,1 @@
+razmjenjuje dva bloka podataka
