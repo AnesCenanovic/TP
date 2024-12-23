@@ -1,0 +1,1 @@
+generator trougla zvijezdica izvrnut

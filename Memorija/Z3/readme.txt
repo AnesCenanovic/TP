@@ -1,0 +1,1 @@
+generator trougla od zvijezdica

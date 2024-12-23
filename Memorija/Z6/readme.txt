@@ -1,0 +1,1 @@
+full dinamicka kopija matrice
