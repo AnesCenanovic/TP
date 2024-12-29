@@ -1,0 +1,1 @@
+implementacija union i intersect nad listama
