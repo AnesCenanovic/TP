@@ -1,0 +1,1 @@
+This C++ program defines a Vektor3d class that represents a 3D vector. It includes basic vector operations such as setting values, retrieving components, computing the vector length, scalar multiplication, and vector addition.
