@@ -1,0 +1,1 @@
+Ovaj C++ kod definira enumeraciju Dani koja predstavlja dane u sedmici, a zatim preopterećuje operatore za tu enumeraciju.
