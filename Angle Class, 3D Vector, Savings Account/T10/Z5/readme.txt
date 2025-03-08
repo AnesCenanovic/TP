@@ -1,0 +1,1 @@
+Ovaj C++ kod definira klasu `Ugao` koja predstavlja kut. Klasa omogućuje rad s kutovima u radijanima i klasičnim jedinicama (stupnjevi, minute, sekunde).
